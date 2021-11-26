@@ -1,0 +1,1 @@
+Where I try to solve a simple coding problem every weekday. Can I make it to a whole year?
